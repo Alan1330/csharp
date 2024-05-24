@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aula28Urionline1061/1.0.0": {
+        "runtime": {
+          "Aula28Urionline1061.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula28Urionline1061/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

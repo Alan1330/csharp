@@ -1,0 +1,14 @@
+D:\dev\ws-csharp\projetos\Aula35ExercicioResolvido\Aula35ExercicioResolvido\obj\Debug\net8.0\Aula35ExercicioResolvido.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\Aula35ExercicioResolvido\Aula35ExercicioResolvido\obj\Debug\net8.0\Aula35ExercicioResolvido.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\Aula35ExercicioResolvido\Aula35ExercicioResolvido\obj\Debug\net8.0\Aula35ExercicioResolvido.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\Aula35ExercicioResolvido\Aula35ExercicioResolvido\obj\Debug\net8.0\Aula35ExercicioResolvido.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\Aula35ExercicioResolvido\Aula35ExercicioResolvido\bin\Debug\net8.0\Aula35ExercicioResolvido.exe
+D:\dev\ws-csharp\projetos\Aula35ExercicioResolvido\Aula35ExercicioResolvido\bin\Debug\net8.0\Aula35ExercicioResolvido.deps.json
+D:\dev\ws-csharp\projetos\Aula35ExercicioResolvido\Aula35ExercicioResolvido\bin\Debug\net8.0\Aula35ExercicioResolvido.runtimeconfig.json
+D:\dev\ws-csharp\projetos\Aula35ExercicioResolvido\Aula35ExercicioResolvido\bin\Debug\net8.0\Aula35ExercicioResolvido.dll
+D:\dev\ws-csharp\projetos\Aula35ExercicioResolvido\Aula35ExercicioResolvido\bin\Debug\net8.0\Aula35ExercicioResolvido.pdb
+D:\dev\ws-csharp\projetos\Aula35ExercicioResolvido\Aula35ExercicioResolvido\obj\Debug\net8.0\Aula35ExercicioResolvido.dll
+D:\dev\ws-csharp\projetos\Aula35ExercicioResolvido\Aula35ExercicioResolvido\obj\Debug\net8.0\refint\Aula35ExercicioResolvido.dll
+D:\dev\ws-csharp\projetos\Aula35ExercicioResolvido\Aula35ExercicioResolvido\obj\Debug\net8.0\Aula35ExercicioResolvido.pdb
+D:\dev\ws-csharp\projetos\Aula35ExercicioResolvido\Aula35ExercicioResolvido\obj\Debug\net8.0\Aula35ExercicioResolvido.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\Aula35ExercicioResolvido\Aula35ExercicioResolvido\obj\Debug\net8.0\ref\Aula35ExercicioResolvido.dll

@@ -1,0 +1,14 @@
+D:\dev\ws-csharp\projetos\Aula40WhileEnquanto\Aula40WhileEnquanto\bin\Debug\net8.0\Aula40WhileEnquanto.exe
+D:\dev\ws-csharp\projetos\Aula40WhileEnquanto\Aula40WhileEnquanto\bin\Debug\net8.0\Aula40WhileEnquanto.deps.json
+D:\dev\ws-csharp\projetos\Aula40WhileEnquanto\Aula40WhileEnquanto\bin\Debug\net8.0\Aula40WhileEnquanto.runtimeconfig.json
+D:\dev\ws-csharp\projetos\Aula40WhileEnquanto\Aula40WhileEnquanto\bin\Debug\net8.0\Aula40WhileEnquanto.dll
+D:\dev\ws-csharp\projetos\Aula40WhileEnquanto\Aula40WhileEnquanto\bin\Debug\net8.0\Aula40WhileEnquanto.pdb
+D:\dev\ws-csharp\projetos\Aula40WhileEnquanto\Aula40WhileEnquanto\obj\Debug\net8.0\Aula40WhileEnquanto.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\Aula40WhileEnquanto\Aula40WhileEnquanto\obj\Debug\net8.0\Aula40WhileEnquanto.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\Aula40WhileEnquanto\Aula40WhileEnquanto\obj\Debug\net8.0\Aula40WhileEnquanto.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\Aula40WhileEnquanto\Aula40WhileEnquanto\obj\Debug\net8.0\Aula40WhileEnquanto.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\Aula40WhileEnquanto\Aula40WhileEnquanto\obj\Debug\net8.0\Aula40WhileEnquanto.dll
+D:\dev\ws-csharp\projetos\Aula40WhileEnquanto\Aula40WhileEnquanto\obj\Debug\net8.0\refint\Aula40WhileEnquanto.dll
+D:\dev\ws-csharp\projetos\Aula40WhileEnquanto\Aula40WhileEnquanto\obj\Debug\net8.0\Aula40WhileEnquanto.pdb
+D:\dev\ws-csharp\projetos\Aula40WhileEnquanto\Aula40WhileEnquanto\obj\Debug\net8.0\Aula40WhileEnquanto.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\Aula40WhileEnquanto\Aula40WhileEnquanto\obj\Debug\net8.0\ref\Aula40WhileEnquanto.dll

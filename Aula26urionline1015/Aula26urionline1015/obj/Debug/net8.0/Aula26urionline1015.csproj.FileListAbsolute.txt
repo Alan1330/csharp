@@ -1,0 +1,14 @@
+D:\dev\ws-csharp\projetos\Aula26urionline1015\Aula26urionline1015\bin\Debug\net8.0\Aula26urionline1015.exe
+D:\dev\ws-csharp\projetos\Aula26urionline1015\Aula26urionline1015\bin\Debug\net8.0\Aula26urionline1015.deps.json
+D:\dev\ws-csharp\projetos\Aula26urionline1015\Aula26urionline1015\bin\Debug\net8.0\Aula26urionline1015.runtimeconfig.json
+D:\dev\ws-csharp\projetos\Aula26urionline1015\Aula26urionline1015\bin\Debug\net8.0\Aula26urionline1015.dll
+D:\dev\ws-csharp\projetos\Aula26urionline1015\Aula26urionline1015\bin\Debug\net8.0\Aula26urionline1015.pdb
+D:\dev\ws-csharp\projetos\Aula26urionline1015\Aula26urionline1015\obj\Debug\net8.0\Aula26urionline1015.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\Aula26urionline1015\Aula26urionline1015\obj\Debug\net8.0\Aula26urionline1015.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\Aula26urionline1015\Aula26urionline1015\obj\Debug\net8.0\Aula26urionline1015.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\Aula26urionline1015\Aula26urionline1015\obj\Debug\net8.0\Aula26urionline1015.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\Aula26urionline1015\Aula26urionline1015\obj\Debug\net8.0\Aula26urionline1015.dll
+D:\dev\ws-csharp\projetos\Aula26urionline1015\Aula26urionline1015\obj\Debug\net8.0\refint\Aula26urionline1015.dll
+D:\dev\ws-csharp\projetos\Aula26urionline1015\Aula26urionline1015\obj\Debug\net8.0\Aula26urionline1015.pdb
+D:\dev\ws-csharp\projetos\Aula26urionline1015\Aula26urionline1015\obj\Debug\net8.0\Aula26urionline1015.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\Aula26urionline1015\Aula26urionline1015\obj\Debug\net8.0\ref\Aula26urionline1015.dll

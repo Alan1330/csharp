@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dev\\ws-csharp\\projetos\\Aula43Uri1113Enquanto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B99BBE-5DF3-4F8E-925D-0DCFB8FF9A47}|Aula43Uri1113Enquanto\\Aula43Uri1113Enquanto.csproj|d:\\dev\\ws-csharp\\projetos\\aula43uri1113enquanto\\aula43uri1113enquanto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B99BBE-5DF3-4F8E-925D-0DCFB8FF9A47}|Aula43Uri1113Enquanto\\Aula43Uri1113Enquanto.csproj|solutionrelative:aula43uri1113enquanto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dev\\ws-csharp\\projetos\\Aula43Uri1113Enquanto\\Aula43Uri1113Enquanto\\Program.cs",
+              "RelativeDocumentMoniker": "Aula43Uri1113Enquanto\\Program.cs",
+              "ToolTip": "D:\\dev\\ws-csharp\\projetos\\Aula43Uri1113Enquanto\\Aula43Uri1113Enquanto\\Program.cs",
+              "RelativeToolTip": "Aula43Uri1113Enquanto\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:38:44.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

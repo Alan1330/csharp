@@ -1,0 +1,14 @@
+D:\dev\ws-csharp\projetos\Aula20_Atividade01\Aula20_Atividade01\bin\Debug\net8.0\Aula20_Atividade01.exe
+D:\dev\ws-csharp\projetos\Aula20_Atividade01\Aula20_Atividade01\bin\Debug\net8.0\Aula20_Atividade01.deps.json
+D:\dev\ws-csharp\projetos\Aula20_Atividade01\Aula20_Atividade01\bin\Debug\net8.0\Aula20_Atividade01.runtimeconfig.json
+D:\dev\ws-csharp\projetos\Aula20_Atividade01\Aula20_Atividade01\bin\Debug\net8.0\Aula20_Atividade01.dll
+D:\dev\ws-csharp\projetos\Aula20_Atividade01\Aula20_Atividade01\bin\Debug\net8.0\Aula20_Atividade01.pdb
+D:\dev\ws-csharp\projetos\Aula20_Atividade01\Aula20_Atividade01\obj\Debug\net8.0\Aula20_Atividade01.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\Aula20_Atividade01\Aula20_Atividade01\obj\Debug\net8.0\Aula20_Atividade01.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\Aula20_Atividade01\Aula20_Atividade01\obj\Debug\net8.0\Aula20_Atividade01.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\Aula20_Atividade01\Aula20_Atividade01\obj\Debug\net8.0\Aula20_Atividade01.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\Aula20_Atividade01\Aula20_Atividade01\obj\Debug\net8.0\Aula20_Atividade01.dll
+D:\dev\ws-csharp\projetos\Aula20_Atividade01\Aula20_Atividade01\obj\Debug\net8.0\refint\Aula20_Atividade01.dll
+D:\dev\ws-csharp\projetos\Aula20_Atividade01\Aula20_Atividade01\obj\Debug\net8.0\Aula20_Atividade01.pdb
+D:\dev\ws-csharp\projetos\Aula20_Atividade01\Aula20_Atividade01\obj\Debug\net8.0\Aula20_Atividade01.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\Aula20_Atividade01\Aula20_Atividade01\obj\Debug\net8.0\ref\Aula20_Atividade01.dll

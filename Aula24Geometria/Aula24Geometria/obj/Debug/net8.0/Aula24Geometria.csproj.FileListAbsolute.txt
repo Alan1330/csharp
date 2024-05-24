@@ -1,0 +1,14 @@
+D:\dev\ws-csharp\projetos\Aula24Geometria\Aula24Geometria\bin\Debug\net8.0\Aula24Geometria.exe
+D:\dev\ws-csharp\projetos\Aula24Geometria\Aula24Geometria\bin\Debug\net8.0\Aula24Geometria.deps.json
+D:\dev\ws-csharp\projetos\Aula24Geometria\Aula24Geometria\bin\Debug\net8.0\Aula24Geometria.runtimeconfig.json
+D:\dev\ws-csharp\projetos\Aula24Geometria\Aula24Geometria\bin\Debug\net8.0\Aula24Geometria.dll
+D:\dev\ws-csharp\projetos\Aula24Geometria\Aula24Geometria\bin\Debug\net8.0\Aula24Geometria.pdb
+D:\dev\ws-csharp\projetos\Aula24Geometria\Aula24Geometria\obj\Debug\net8.0\Aula24Geometria.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\Aula24Geometria\Aula24Geometria\obj\Debug\net8.0\Aula24Geometria.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\Aula24Geometria\Aula24Geometria\obj\Debug\net8.0\Aula24Geometria.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\Aula24Geometria\Aula24Geometria\obj\Debug\net8.0\Aula24Geometria.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\Aula24Geometria\Aula24Geometria\obj\Debug\net8.0\Aula24Geometria.dll
+D:\dev\ws-csharp\projetos\Aula24Geometria\Aula24Geometria\obj\Debug\net8.0\refint\Aula24Geometria.dll
+D:\dev\ws-csharp\projetos\Aula24Geometria\Aula24Geometria\obj\Debug\net8.0\Aula24Geometria.pdb
+D:\dev\ws-csharp\projetos\Aula24Geometria\Aula24Geometria\obj\Debug\net8.0\Aula24Geometria.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\Aula24Geometria\Aula24Geometria\obj\Debug\net8.0\ref\Aula24Geometria.dll

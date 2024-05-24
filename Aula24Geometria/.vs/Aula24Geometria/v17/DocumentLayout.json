@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dev\\ws-csharp\\projetos\\Aula24Geometria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80991656-DCD3-44F4-86FB-26FDDA3897CF}|Aula24Geometria\\Aula24Geometria.csproj|d:\\dev\\ws-csharp\\projetos\\aula24geometria\\aula24geometria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80991656-DCD3-44F4-86FB-26FDDA3897CF}|Aula24Geometria\\Aula24Geometria.csproj|solutionrelative:aula24geometria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dev\\ws-csharp\\projetos\\Aula24Geometria\\Aula24Geometria\\Program.cs",
+              "RelativeDocumentMoniker": "Aula24Geometria\\Program.cs",
+              "ToolTip": "D:\\dev\\ws-csharp\\projetos\\Aula24Geometria\\Aula24Geometria\\Program.cs",
+              "RelativeToolTip": "Aula24Geometria\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T17:00:35.099Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

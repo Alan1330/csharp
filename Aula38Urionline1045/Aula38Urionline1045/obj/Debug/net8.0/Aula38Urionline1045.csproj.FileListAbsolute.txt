@@ -1,0 +1,14 @@
+D:\dev\ws-csharp\projetos\Aula38Urionline1045\Aula38Urionline1045\bin\Debug\net8.0\Aula38Urionline1045.exe
+D:\dev\ws-csharp\projetos\Aula38Urionline1045\Aula38Urionline1045\bin\Debug\net8.0\Aula38Urionline1045.deps.json
+D:\dev\ws-csharp\projetos\Aula38Urionline1045\Aula38Urionline1045\bin\Debug\net8.0\Aula38Urionline1045.runtimeconfig.json
+D:\dev\ws-csharp\projetos\Aula38Urionline1045\Aula38Urionline1045\bin\Debug\net8.0\Aula38Urionline1045.dll
+D:\dev\ws-csharp\projetos\Aula38Urionline1045\Aula38Urionline1045\bin\Debug\net8.0\Aula38Urionline1045.pdb
+D:\dev\ws-csharp\projetos\Aula38Urionline1045\Aula38Urionline1045\obj\Debug\net8.0\Aula38Urionline1045.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\Aula38Urionline1045\Aula38Urionline1045\obj\Debug\net8.0\Aula38Urionline1045.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\Aula38Urionline1045\Aula38Urionline1045\obj\Debug\net8.0\Aula38Urionline1045.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\Aula38Urionline1045\Aula38Urionline1045\obj\Debug\net8.0\Aula38Urionline1045.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\Aula38Urionline1045\Aula38Urionline1045\obj\Debug\net8.0\Aula38Urionline1045.dll
+D:\dev\ws-csharp\projetos\Aula38Urionline1045\Aula38Urionline1045\obj\Debug\net8.0\refint\Aula38Urionline1045.dll
+D:\dev\ws-csharp\projetos\Aula38Urionline1045\Aula38Urionline1045\obj\Debug\net8.0\Aula38Urionline1045.pdb
+D:\dev\ws-csharp\projetos\Aula38Urionline1045\Aula38Urionline1045\obj\Debug\net8.0\Aula38Urionline1045.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\Aula38Urionline1045\Aula38Urionline1045\obj\Debug\net8.0\ref\Aula38Urionline1045.dll

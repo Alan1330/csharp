@@ -1,0 +1,14 @@
+D:\dev\ws-csharp\projetos\Aula34_CondicionalComposta\Aula34_CondicionalComposta\bin\Debug\net8.0\Aula34_CondicionalComposta.exe
+D:\dev\ws-csharp\projetos\Aula34_CondicionalComposta\Aula34_CondicionalComposta\bin\Debug\net8.0\Aula34_CondicionalComposta.deps.json
+D:\dev\ws-csharp\projetos\Aula34_CondicionalComposta\Aula34_CondicionalComposta\bin\Debug\net8.0\Aula34_CondicionalComposta.runtimeconfig.json
+D:\dev\ws-csharp\projetos\Aula34_CondicionalComposta\Aula34_CondicionalComposta\bin\Debug\net8.0\Aula34_CondicionalComposta.dll
+D:\dev\ws-csharp\projetos\Aula34_CondicionalComposta\Aula34_CondicionalComposta\bin\Debug\net8.0\Aula34_CondicionalComposta.pdb
+D:\dev\ws-csharp\projetos\Aula34_CondicionalComposta\Aula34_CondicionalComposta\obj\Debug\net8.0\Aula34_CondicionalComposta.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\Aula34_CondicionalComposta\Aula34_CondicionalComposta\obj\Debug\net8.0\Aula34_CondicionalComposta.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\Aula34_CondicionalComposta\Aula34_CondicionalComposta\obj\Debug\net8.0\Aula34_CondicionalComposta.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\Aula34_CondicionalComposta\Aula34_CondicionalComposta\obj\Debug\net8.0\Aula34_CondicionalComposta.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\Aula34_CondicionalComposta\Aula34_CondicionalComposta\obj\Debug\net8.0\Aula34_CondicionalComposta.dll
+D:\dev\ws-csharp\projetos\Aula34_CondicionalComposta\Aula34_CondicionalComposta\obj\Debug\net8.0\refint\Aula34_CondicionalComposta.dll
+D:\dev\ws-csharp\projetos\Aula34_CondicionalComposta\Aula34_CondicionalComposta\obj\Debug\net8.0\Aula34_CondicionalComposta.pdb
+D:\dev\ws-csharp\projetos\Aula34_CondicionalComposta\Aula34_CondicionalComposta\obj\Debug\net8.0\Aula34_CondicionalComposta.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\Aula34_CondicionalComposta\Aula34_CondicionalComposta\obj\Debug\net8.0\ref\Aula34_CondicionalComposta.dll

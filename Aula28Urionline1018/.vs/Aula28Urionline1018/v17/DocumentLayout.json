@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dev\\ws-csharp\\projetos\\Aula28Urionline1018\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{816E5CC6-6928-4F27-A511-6E22A77A4668}|Aula28Urionline1018\\Aula28Urionline1018.csproj|d:\\dev\\ws-csharp\\projetos\\aula28urionline1018\\aula28urionline1018\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816E5CC6-6928-4F27-A511-6E22A77A4668}|Aula28Urionline1018\\Aula28Urionline1018.csproj|solutionrelative:aula28urionline1018\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dev\\ws-csharp\\projetos\\Aula28Urionline1018\\Aula28Urionline1018\\Program.cs",
+              "RelativeDocumentMoniker": "Aula28Urionline1018\\Program.cs",
+              "ToolTip": "D:\\dev\\ws-csharp\\projetos\\Aula28Urionline1018\\Aula28Urionline1018\\Program.cs",
+              "RelativeToolTip": "Aula28Urionline1018\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T16:29:53.638Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\dev\ws-csharp\projetos\Aula28Urionline1021\Aula28Urionline1021\obj\Debug\net8.0\Aula28Urionline1021.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\Aula28Urionline1021\Aula28Urionline1021\obj\Debug\net8.0\Aula28Urionline1021.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\Aula28Urionline1021\Aula28Urionline1021\obj\Debug\net8.0\Aula28Urionline1021.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\Aula28Urionline1021\Aula28Urionline1021\obj\Debug\net8.0\Aula28Urionline1021.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\Aula28Urionline1021\Aula28Urionline1021\bin\Debug\net8.0\Aula28Urionline1021.exe
+D:\dev\ws-csharp\projetos\Aula28Urionline1021\Aula28Urionline1021\bin\Debug\net8.0\Aula28Urionline1021.deps.json
+D:\dev\ws-csharp\projetos\Aula28Urionline1021\Aula28Urionline1021\bin\Debug\net8.0\Aula28Urionline1021.runtimeconfig.json
+D:\dev\ws-csharp\projetos\Aula28Urionline1021\Aula28Urionline1021\bin\Debug\net8.0\Aula28Urionline1021.dll
+D:\dev\ws-csharp\projetos\Aula28Urionline1021\Aula28Urionline1021\bin\Debug\net8.0\Aula28Urionline1021.pdb
+D:\dev\ws-csharp\projetos\Aula28Urionline1021\Aula28Urionline1021\obj\Debug\net8.0\Aula28Urionline1021.dll
+D:\dev\ws-csharp\projetos\Aula28Urionline1021\Aula28Urionline1021\obj\Debug\net8.0\refint\Aula28Urionline1021.dll
+D:\dev\ws-csharp\projetos\Aula28Urionline1021\Aula28Urionline1021\obj\Debug\net8.0\Aula28Urionline1021.pdb
+D:\dev\ws-csharp\projetos\Aula28Urionline1021\Aula28Urionline1021\obj\Debug\net8.0\Aula28Urionline1021.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\Aula28Urionline1021\Aula28Urionline1021\obj\Debug\net8.0\ref\Aula28Urionline1021.dll

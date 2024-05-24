@@ -1,0 +1,14 @@
+D:\dev\ws-csharp\projetos\Aula44Resolvido02\Aula44Resolvido02\bin\Debug\net8.0\Aula44Resolvido02.exe
+D:\dev\ws-csharp\projetos\Aula44Resolvido02\Aula44Resolvido02\bin\Debug\net8.0\Aula44Resolvido02.deps.json
+D:\dev\ws-csharp\projetos\Aula44Resolvido02\Aula44Resolvido02\bin\Debug\net8.0\Aula44Resolvido02.runtimeconfig.json
+D:\dev\ws-csharp\projetos\Aula44Resolvido02\Aula44Resolvido02\bin\Debug\net8.0\Aula44Resolvido02.dll
+D:\dev\ws-csharp\projetos\Aula44Resolvido02\Aula44Resolvido02\bin\Debug\net8.0\Aula44Resolvido02.pdb
+D:\dev\ws-csharp\projetos\Aula44Resolvido02\Aula44Resolvido02\obj\Debug\net8.0\Aula44Resolvido02.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\Aula44Resolvido02\Aula44Resolvido02\obj\Debug\net8.0\Aula44Resolvido02.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\Aula44Resolvido02\Aula44Resolvido02\obj\Debug\net8.0\Aula44Resolvido02.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\Aula44Resolvido02\Aula44Resolvido02\obj\Debug\net8.0\Aula44Resolvido02.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\Aula44Resolvido02\Aula44Resolvido02\obj\Debug\net8.0\Aula44Resolvido02.dll
+D:\dev\ws-csharp\projetos\Aula44Resolvido02\Aula44Resolvido02\obj\Debug\net8.0\refint\Aula44Resolvido02.dll
+D:\dev\ws-csharp\projetos\Aula44Resolvido02\Aula44Resolvido02\obj\Debug\net8.0\Aula44Resolvido02.pdb
+D:\dev\ws-csharp\projetos\Aula44Resolvido02\Aula44Resolvido02\obj\Debug\net8.0\Aula44Resolvido02.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\Aula44Resolvido02\Aula44Resolvido02\obj\Debug\net8.0\ref\Aula44Resolvido02.dll

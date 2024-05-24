@@ -1,0 +1,14 @@
+D:\dev\ws-csharp\projetos\Aula25DoisDadosPorLinha\Aula25DoisDadosPorLinha\obj\Debug\net8.0\Aula25DoisDadosPorLinha.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\Aula25DoisDadosPorLinha\Aula25DoisDadosPorLinha\obj\Debug\net8.0\Aula25DoisDadosPorLinha.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\Aula25DoisDadosPorLinha\Aula25DoisDadosPorLinha\obj\Debug\net8.0\Aula25DoisDadosPorLinha.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\Aula25DoisDadosPorLinha\Aula25DoisDadosPorLinha\obj\Debug\net8.0\Aula25DoisDadosPorLinha.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\Aula25DoisDadosPorLinha\Aula25DoisDadosPorLinha\bin\Debug\net8.0\Aula25DoisDadosPorLinha.exe
+D:\dev\ws-csharp\projetos\Aula25DoisDadosPorLinha\Aula25DoisDadosPorLinha\bin\Debug\net8.0\Aula25DoisDadosPorLinha.deps.json
+D:\dev\ws-csharp\projetos\Aula25DoisDadosPorLinha\Aula25DoisDadosPorLinha\bin\Debug\net8.0\Aula25DoisDadosPorLinha.runtimeconfig.json
+D:\dev\ws-csharp\projetos\Aula25DoisDadosPorLinha\Aula25DoisDadosPorLinha\bin\Debug\net8.0\Aula25DoisDadosPorLinha.dll
+D:\dev\ws-csharp\projetos\Aula25DoisDadosPorLinha\Aula25DoisDadosPorLinha\bin\Debug\net8.0\Aula25DoisDadosPorLinha.pdb
+D:\dev\ws-csharp\projetos\Aula25DoisDadosPorLinha\Aula25DoisDadosPorLinha\obj\Debug\net8.0\Aula25DoisDadosPorLinha.dll
+D:\dev\ws-csharp\projetos\Aula25DoisDadosPorLinha\Aula25DoisDadosPorLinha\obj\Debug\net8.0\refint\Aula25DoisDadosPorLinha.dll
+D:\dev\ws-csharp\projetos\Aula25DoisDadosPorLinha\Aula25DoisDadosPorLinha\obj\Debug\net8.0\Aula25DoisDadosPorLinha.pdb
+D:\dev\ws-csharp\projetos\Aula25DoisDadosPorLinha\Aula25DoisDadosPorLinha\obj\Debug\net8.0\Aula25DoisDadosPorLinha.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\Aula25DoisDadosPorLinha\Aula25DoisDadosPorLinha\obj\Debug\net8.0\ref\Aula25DoisDadosPorLinha.dll

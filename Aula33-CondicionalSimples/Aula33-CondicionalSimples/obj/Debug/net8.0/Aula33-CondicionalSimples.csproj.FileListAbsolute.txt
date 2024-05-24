@@ -1,0 +1,14 @@
+D:\dev\ws-csharp\projetos\Aula33-CondicionalSimples\Aula33-CondicionalSimples\bin\Debug\net8.0\Aula33-CondicionalSimples.exe
+D:\dev\ws-csharp\projetos\Aula33-CondicionalSimples\Aula33-CondicionalSimples\bin\Debug\net8.0\Aula33-CondicionalSimples.deps.json
+D:\dev\ws-csharp\projetos\Aula33-CondicionalSimples\Aula33-CondicionalSimples\bin\Debug\net8.0\Aula33-CondicionalSimples.runtimeconfig.json
+D:\dev\ws-csharp\projetos\Aula33-CondicionalSimples\Aula33-CondicionalSimples\bin\Debug\net8.0\Aula33-CondicionalSimples.dll
+D:\dev\ws-csharp\projetos\Aula33-CondicionalSimples\Aula33-CondicionalSimples\bin\Debug\net8.0\Aula33-CondicionalSimples.pdb
+D:\dev\ws-csharp\projetos\Aula33-CondicionalSimples\Aula33-CondicionalSimples\obj\Debug\net8.0\Aula33-CondicionalSimples.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\Aula33-CondicionalSimples\Aula33-CondicionalSimples\obj\Debug\net8.0\Aula33-CondicionalSimples.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\Aula33-CondicionalSimples\Aula33-CondicionalSimples\obj\Debug\net8.0\Aula33-CondicionalSimples.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\Aula33-CondicionalSimples\Aula33-CondicionalSimples\obj\Debug\net8.0\Aula33-CondicionalSimples.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\Aula33-CondicionalSimples\Aula33-CondicionalSimples\obj\Debug\net8.0\Aula33-CondicionalSimples.dll
+D:\dev\ws-csharp\projetos\Aula33-CondicionalSimples\Aula33-CondicionalSimples\obj\Debug\net8.0\refint\Aula33-CondicionalSimples.dll
+D:\dev\ws-csharp\projetos\Aula33-CondicionalSimples\Aula33-CondicionalSimples\obj\Debug\net8.0\Aula33-CondicionalSimples.pdb
+D:\dev\ws-csharp\projetos\Aula33-CondicionalSimples\Aula33-CondicionalSimples\obj\Debug\net8.0\Aula33-CondicionalSimples.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\Aula33-CondicionalSimples\Aula33-CondicionalSimples\obj\Debug\net8.0\ref\Aula33-CondicionalSimples.dll

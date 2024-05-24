@@ -1,0 +1,14 @@
+D:\dev\ws-csharp\projetos\Aula16_ProcessamentoDados\Aula16_ProcessamentoDados\bin\Debug\net8.0\Aula16_ProcessamentoDados.exe
+D:\dev\ws-csharp\projetos\Aula16_ProcessamentoDados\Aula16_ProcessamentoDados\bin\Debug\net8.0\Aula16_ProcessamentoDados.deps.json
+D:\dev\ws-csharp\projetos\Aula16_ProcessamentoDados\Aula16_ProcessamentoDados\bin\Debug\net8.0\Aula16_ProcessamentoDados.runtimeconfig.json
+D:\dev\ws-csharp\projetos\Aula16_ProcessamentoDados\Aula16_ProcessamentoDados\bin\Debug\net8.0\Aula16_ProcessamentoDados.dll
+D:\dev\ws-csharp\projetos\Aula16_ProcessamentoDados\Aula16_ProcessamentoDados\bin\Debug\net8.0\Aula16_ProcessamentoDados.pdb
+D:\dev\ws-csharp\projetos\Aula16_ProcessamentoDados\Aula16_ProcessamentoDados\obj\Debug\net8.0\Aula16_ProcessamentoDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\Aula16_ProcessamentoDados\Aula16_ProcessamentoDados\obj\Debug\net8.0\Aula16_ProcessamentoDados.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\Aula16_ProcessamentoDados\Aula16_ProcessamentoDados\obj\Debug\net8.0\Aula16_ProcessamentoDados.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\Aula16_ProcessamentoDados\Aula16_ProcessamentoDados\obj\Debug\net8.0\Aula16_ProcessamentoDados.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\Aula16_ProcessamentoDados\Aula16_ProcessamentoDados\obj\Debug\net8.0\Aula16_ProcessamentoDados.dll
+D:\dev\ws-csharp\projetos\Aula16_ProcessamentoDados\Aula16_ProcessamentoDados\obj\Debug\net8.0\refint\Aula16_ProcessamentoDados.dll
+D:\dev\ws-csharp\projetos\Aula16_ProcessamentoDados\Aula16_ProcessamentoDados\obj\Debug\net8.0\Aula16_ProcessamentoDados.pdb
+D:\dev\ws-csharp\projetos\Aula16_ProcessamentoDados\Aula16_ProcessamentoDados\obj\Debug\net8.0\Aula16_ProcessamentoDados.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\Aula16_ProcessamentoDados\Aula16_ProcessamentoDados\obj\Debug\net8.0\ref\Aula16_ProcessamentoDados.dll
