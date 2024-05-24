@@ -1,0 +1,15 @@
+D:\dev\ws-csharp\projetos\csharp\Aleluia\bin\Debug\net8.0\Aleluia.exe
+D:\dev\ws-csharp\projetos\csharp\Aleluia\bin\Debug\net8.0\Aleluia.deps.json
+D:\dev\ws-csharp\projetos\csharp\Aleluia\bin\Debug\net8.0\Aleluia.runtimeconfig.json
+D:\dev\ws-csharp\projetos\csharp\Aleluia\bin\Debug\net8.0\Aleluia.dll
+D:\dev\ws-csharp\projetos\csharp\Aleluia\bin\Debug\net8.0\Aleluia.pdb
+D:\dev\ws-csharp\projetos\csharp\Aleluia\obj\Debug\net8.0\Aleluia.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\csharp\Aleluia\obj\Debug\net8.0\Aleluia.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\csharp\Aleluia\obj\Debug\net8.0\Aleluia.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\csharp\Aleluia\obj\Debug\net8.0\Aleluia.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\csharp\Aleluia\obj\Debug\net8.0\Aleluia.sourcelink.json
+D:\dev\ws-csharp\projetos\csharp\Aleluia\obj\Debug\net8.0\Aleluia.dll
+D:\dev\ws-csharp\projetos\csharp\Aleluia\obj\Debug\net8.0\refint\Aleluia.dll
+D:\dev\ws-csharp\projetos\csharp\Aleluia\obj\Debug\net8.0\Aleluia.pdb
+D:\dev\ws-csharp\projetos\csharp\Aleluia\obj\Debug\net8.0\Aleluia.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\csharp\Aleluia\obj\Debug\net8.0\ref\Aleluia.dll
