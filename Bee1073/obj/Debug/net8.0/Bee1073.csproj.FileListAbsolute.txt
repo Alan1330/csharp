@@ -1,0 +1,15 @@
+D:\dev\ws-csharp\projetos\csharp\Bee1073\bin\Debug\net8.0\Bee1073.exe
+D:\dev\ws-csharp\projetos\csharp\Bee1073\bin\Debug\net8.0\Bee1073.deps.json
+D:\dev\ws-csharp\projetos\csharp\Bee1073\bin\Debug\net8.0\Bee1073.runtimeconfig.json
+D:\dev\ws-csharp\projetos\csharp\Bee1073\bin\Debug\net8.0\Bee1073.dll
+D:\dev\ws-csharp\projetos\csharp\Bee1073\bin\Debug\net8.0\Bee1073.pdb
+D:\dev\ws-csharp\projetos\csharp\Bee1073\obj\Debug\net8.0\Bee1073.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\csharp\Bee1073\obj\Debug\net8.0\Bee1073.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\csharp\Bee1073\obj\Debug\net8.0\Bee1073.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\csharp\Bee1073\obj\Debug\net8.0\Bee1073.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\csharp\Bee1073\obj\Debug\net8.0\Bee1073.sourcelink.json
+D:\dev\ws-csharp\projetos\csharp\Bee1073\obj\Debug\net8.0\Bee1073.dll
+D:\dev\ws-csharp\projetos\csharp\Bee1073\obj\Debug\net8.0\refint\Bee1073.dll
+D:\dev\ws-csharp\projetos\csharp\Bee1073\obj\Debug\net8.0\Bee1073.pdb
+D:\dev\ws-csharp\projetos\csharp\Bee1073\obj\Debug\net8.0\Bee1073.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\csharp\Bee1073\obj\Debug\net8.0\ref\Bee1073.dll
