@@ -1,0 +1,15 @@
+D:\dev\ws-csharp\projetos\csharp\Bee1096\obj\Debug\net8.0\Bee1096.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\csharp\Bee1096\obj\Debug\net8.0\Bee1096.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\csharp\Bee1096\obj\Debug\net8.0\Bee1096.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\csharp\Bee1096\obj\Debug\net8.0\Bee1096.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\csharp\Bee1096\obj\Debug\net8.0\Bee1096.sourcelink.json
+D:\dev\ws-csharp\projetos\csharp\Bee1096\bin\Debug\net8.0\Bee1096.exe
+D:\dev\ws-csharp\projetos\csharp\Bee1096\bin\Debug\net8.0\Bee1096.deps.json
+D:\dev\ws-csharp\projetos\csharp\Bee1096\bin\Debug\net8.0\Bee1096.runtimeconfig.json
+D:\dev\ws-csharp\projetos\csharp\Bee1096\bin\Debug\net8.0\Bee1096.dll
+D:\dev\ws-csharp\projetos\csharp\Bee1096\bin\Debug\net8.0\Bee1096.pdb
+D:\dev\ws-csharp\projetos\csharp\Bee1096\obj\Debug\net8.0\Bee1096.dll
+D:\dev\ws-csharp\projetos\csharp\Bee1096\obj\Debug\net8.0\refint\Bee1096.dll
+D:\dev\ws-csharp\projetos\csharp\Bee1096\obj\Debug\net8.0\Bee1096.pdb
+D:\dev\ws-csharp\projetos\csharp\Bee1096\obj\Debug\net8.0\Bee1096.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\csharp\Bee1096\obj\Debug\net8.0\ref\Bee1096.dll
