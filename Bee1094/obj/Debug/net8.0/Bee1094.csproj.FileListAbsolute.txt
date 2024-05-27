@@ -1,0 +1,15 @@
+D:\dev\ws-csharp\projetos\csharp\Bee1094\bin\Debug\net8.0\Bee1094.exe
+D:\dev\ws-csharp\projetos\csharp\Bee1094\bin\Debug\net8.0\Bee1094.deps.json
+D:\dev\ws-csharp\projetos\csharp\Bee1094\bin\Debug\net8.0\Bee1094.runtimeconfig.json
+D:\dev\ws-csharp\projetos\csharp\Bee1094\bin\Debug\net8.0\Bee1094.dll
+D:\dev\ws-csharp\projetos\csharp\Bee1094\bin\Debug\net8.0\Bee1094.pdb
+D:\dev\ws-csharp\projetos\csharp\Bee1094\obj\Debug\net8.0\Bee1094.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\csharp\Bee1094\obj\Debug\net8.0\Bee1094.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\csharp\Bee1094\obj\Debug\net8.0\Bee1094.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\csharp\Bee1094\obj\Debug\net8.0\Bee1094.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\csharp\Bee1094\obj\Debug\net8.0\Bee1094.sourcelink.json
+D:\dev\ws-csharp\projetos\csharp\Bee1094\obj\Debug\net8.0\Bee1094.dll
+D:\dev\ws-csharp\projetos\csharp\Bee1094\obj\Debug\net8.0\refint\Bee1094.dll
+D:\dev\ws-csharp\projetos\csharp\Bee1094\obj\Debug\net8.0\Bee1094.pdb
+D:\dev\ws-csharp\projetos\csharp\Bee1094\obj\Debug\net8.0\Bee1094.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\csharp\Bee1094\obj\Debug\net8.0\ref\Bee1094.dll
