@@ -1,0 +1,15 @@
+D:\dev\ws-csharp\projetos\csharp\Bee1116\bin\Debug\net8.0\Bee1116.exe
+D:\dev\ws-csharp\projetos\csharp\Bee1116\bin\Debug\net8.0\Bee1116.deps.json
+D:\dev\ws-csharp\projetos\csharp\Bee1116\bin\Debug\net8.0\Bee1116.runtimeconfig.json
+D:\dev\ws-csharp\projetos\csharp\Bee1116\bin\Debug\net8.0\Bee1116.dll
+D:\dev\ws-csharp\projetos\csharp\Bee1116\bin\Debug\net8.0\Bee1116.pdb
+D:\dev\ws-csharp\projetos\csharp\Bee1116\obj\Debug\net8.0\Bee1116.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\csharp\Bee1116\obj\Debug\net8.0\Bee1116.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\csharp\Bee1116\obj\Debug\net8.0\Bee1116.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\csharp\Bee1116\obj\Debug\net8.0\Bee1116.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\csharp\Bee1116\obj\Debug\net8.0\Bee1116.sourcelink.json
+D:\dev\ws-csharp\projetos\csharp\Bee1116\obj\Debug\net8.0\Bee1116.dll
+D:\dev\ws-csharp\projetos\csharp\Bee1116\obj\Debug\net8.0\refint\Bee1116.dll
+D:\dev\ws-csharp\projetos\csharp\Bee1116\obj\Debug\net8.0\Bee1116.pdb
+D:\dev\ws-csharp\projetos\csharp\Bee1116\obj\Debug\net8.0\Bee1116.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\csharp\Bee1116\obj\Debug\net8.0\ref\Bee1116.dll
