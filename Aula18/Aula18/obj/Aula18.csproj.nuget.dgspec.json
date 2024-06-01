@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dev\\ws-csharp\\projetos\\Aula18\\Aula18\\Aula18.csproj": {}
+    "D:\\dev\\ws-csharp\\projetos\\csharp\\Aula18\\Aula18\\Aula18.csproj": {}
   },
   "projects": {
-    "D:\\dev\\ws-csharp\\projetos\\Aula18\\Aula18\\Aula18.csproj": {
+    "D:\\dev\\ws-csharp\\projetos\\csharp\\Aula18\\Aula18\\Aula18.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dev\\ws-csharp\\projetos\\Aula18\\Aula18\\Aula18.csproj",
+        "projectUniqueName": "D:\\dev\\ws-csharp\\projetos\\csharp\\Aula18\\Aula18\\Aula18.csproj",
         "projectName": "Aula18",
-        "projectPath": "D:\\dev\\ws-csharp\\projetos\\Aula18\\Aula18\\Aula18.csproj",
+        "projectPath": "D:\\dev\\ws-csharp\\projetos\\csharp\\Aula18\\Aula18\\Aula18.csproj",
         "packagesPath": "C:\\Users\\alan\\.nuget\\packages\\",
-        "outputPath": "D:\\dev\\ws-csharp\\projetos\\Aula18\\Aula18\\obj\\",
+        "outputPath": "D:\\dev\\ws-csharp\\projetos\\csharp\\Aula18\\Aula18\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
