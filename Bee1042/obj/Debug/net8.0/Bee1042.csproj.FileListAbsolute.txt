@@ -1,0 +1,15 @@
+D:\dev\ws-csharp\projetos\csharp\Bee1042\bin\Debug\net8.0\Bee1042.exe
+D:\dev\ws-csharp\projetos\csharp\Bee1042\bin\Debug\net8.0\Bee1042.deps.json
+D:\dev\ws-csharp\projetos\csharp\Bee1042\bin\Debug\net8.0\Bee1042.runtimeconfig.json
+D:\dev\ws-csharp\projetos\csharp\Bee1042\bin\Debug\net8.0\Bee1042.dll
+D:\dev\ws-csharp\projetos\csharp\Bee1042\bin\Debug\net8.0\Bee1042.pdb
+D:\dev\ws-csharp\projetos\csharp\Bee1042\obj\Debug\net8.0\Bee1042.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\csharp\Bee1042\obj\Debug\net8.0\Bee1042.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\csharp\Bee1042\obj\Debug\net8.0\Bee1042.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\csharp\Bee1042\obj\Debug\net8.0\Bee1042.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\csharp\Bee1042\obj\Debug\net8.0\Bee1042.sourcelink.json
+D:\dev\ws-csharp\projetos\csharp\Bee1042\obj\Debug\net8.0\Bee1042.dll
+D:\dev\ws-csharp\projetos\csharp\Bee1042\obj\Debug\net8.0\refint\Bee1042.dll
+D:\dev\ws-csharp\projetos\csharp\Bee1042\obj\Debug\net8.0\Bee1042.pdb
+D:\dev\ws-csharp\projetos\csharp\Bee1042\obj\Debug\net8.0\Bee1042.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\csharp\Bee1042\obj\Debug\net8.0\ref\Bee1042.dll
