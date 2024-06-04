@@ -1,0 +1,15 @@
+D:\dev\ws-csharp\projetos\csharp\Bee1157\bin\Debug\net8.0\Bee1157.exe
+D:\dev\ws-csharp\projetos\csharp\Bee1157\bin\Debug\net8.0\Bee1157.deps.json
+D:\dev\ws-csharp\projetos\csharp\Bee1157\bin\Debug\net8.0\Bee1157.runtimeconfig.json
+D:\dev\ws-csharp\projetos\csharp\Bee1157\bin\Debug\net8.0\Bee1157.dll
+D:\dev\ws-csharp\projetos\csharp\Bee1157\bin\Debug\net8.0\Bee1157.pdb
+D:\dev\ws-csharp\projetos\csharp\Bee1157\obj\Debug\net8.0\Bee1157.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\csharp\Bee1157\obj\Debug\net8.0\Bee1157.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\csharp\Bee1157\obj\Debug\net8.0\Bee1157.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\csharp\Bee1157\obj\Debug\net8.0\Bee1157.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\csharp\Bee1157\obj\Debug\net8.0\Bee1157.sourcelink.json
+D:\dev\ws-csharp\projetos\csharp\Bee1157\obj\Debug\net8.0\Bee1157.dll
+D:\dev\ws-csharp\projetos\csharp\Bee1157\obj\Debug\net8.0\refint\Bee1157.dll
+D:\dev\ws-csharp\projetos\csharp\Bee1157\obj\Debug\net8.0\Bee1157.pdb
+D:\dev\ws-csharp\projetos\csharp\Bee1157\obj\Debug\net8.0\Bee1157.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\csharp\Bee1157\obj\Debug\net8.0\ref\Bee1157.dll
