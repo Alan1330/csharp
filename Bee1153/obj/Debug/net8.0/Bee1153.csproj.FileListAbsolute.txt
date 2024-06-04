@@ -1,0 +1,15 @@
+D:\dev\ws-csharp\projetos\csharp\Bee1153\bin\Debug\net8.0\Bee1153.exe
+D:\dev\ws-csharp\projetos\csharp\Bee1153\bin\Debug\net8.0\Bee1153.deps.json
+D:\dev\ws-csharp\projetos\csharp\Bee1153\bin\Debug\net8.0\Bee1153.runtimeconfig.json
+D:\dev\ws-csharp\projetos\csharp\Bee1153\bin\Debug\net8.0\Bee1153.dll
+D:\dev\ws-csharp\projetos\csharp\Bee1153\bin\Debug\net8.0\Bee1153.pdb
+D:\dev\ws-csharp\projetos\csharp\Bee1153\obj\Debug\net8.0\Bee1153.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\csharp\Bee1153\obj\Debug\net8.0\Bee1153.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\csharp\Bee1153\obj\Debug\net8.0\Bee1153.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\csharp\Bee1153\obj\Debug\net8.0\Bee1153.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\csharp\Bee1153\obj\Debug\net8.0\Bee1153.sourcelink.json
+D:\dev\ws-csharp\projetos\csharp\Bee1153\obj\Debug\net8.0\Bee1153.dll
+D:\dev\ws-csharp\projetos\csharp\Bee1153\obj\Debug\net8.0\refint\Bee1153.dll
+D:\dev\ws-csharp\projetos\csharp\Bee1153\obj\Debug\net8.0\Bee1153.pdb
+D:\dev\ws-csharp\projetos\csharp\Bee1153\obj\Debug\net8.0\Bee1153.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\csharp\Bee1153\obj\Debug\net8.0\ref\Bee1153.dll
