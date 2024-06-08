@@ -1,0 +1,15 @@
+D:\dev\ws-csharp\projetos\csharp\Aula68_teste01\bin\Debug\net8.0\Aula68_teste01.exe
+D:\dev\ws-csharp\projetos\csharp\Aula68_teste01\bin\Debug\net8.0\Aula68_teste01.deps.json
+D:\dev\ws-csharp\projetos\csharp\Aula68_teste01\bin\Debug\net8.0\Aula68_teste01.runtimeconfig.json
+D:\dev\ws-csharp\projetos\csharp\Aula68_teste01\bin\Debug\net8.0\Aula68_teste01.dll
+D:\dev\ws-csharp\projetos\csharp\Aula68_teste01\bin\Debug\net8.0\Aula68_teste01.pdb
+D:\dev\ws-csharp\projetos\csharp\Aula68_teste01\obj\Debug\net8.0\Aula68_teste01.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\csharp\Aula68_teste01\obj\Debug\net8.0\Aula68_teste01.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\csharp\Aula68_teste01\obj\Debug\net8.0\Aula68_teste01.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\csharp\Aula68_teste01\obj\Debug\net8.0\Aula68_teste01.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\csharp\Aula68_teste01\obj\Debug\net8.0\Aula68_teste01.sourcelink.json
+D:\dev\ws-csharp\projetos\csharp\Aula68_teste01\obj\Debug\net8.0\Aula68_teste01.dll
+D:\dev\ws-csharp\projetos\csharp\Aula68_teste01\obj\Debug\net8.0\refint\Aula68_teste01.dll
+D:\dev\ws-csharp\projetos\csharp\Aula68_teste01\obj\Debug\net8.0\Aula68_teste01.pdb
+D:\dev\ws-csharp\projetos\csharp\Aula68_teste01\obj\Debug\net8.0\Aula68_teste01.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\csharp\Aula68_teste01\obj\Debug\net8.0\ref\Aula68_teste01.dll

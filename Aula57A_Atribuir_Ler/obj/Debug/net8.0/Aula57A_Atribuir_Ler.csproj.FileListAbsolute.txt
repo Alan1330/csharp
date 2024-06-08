@@ -1,0 +1,15 @@
+D:\dev\ws-csharp\projetos\csharp\Aula57A_Atribuir_Ler\bin\Debug\net8.0\Aula57A_Atribuir_Ler.exe
+D:\dev\ws-csharp\projetos\csharp\Aula57A_Atribuir_Ler\bin\Debug\net8.0\Aula57A_Atribuir_Ler.deps.json
+D:\dev\ws-csharp\projetos\csharp\Aula57A_Atribuir_Ler\bin\Debug\net8.0\Aula57A_Atribuir_Ler.runtimeconfig.json
+D:\dev\ws-csharp\projetos\csharp\Aula57A_Atribuir_Ler\bin\Debug\net8.0\Aula57A_Atribuir_Ler.dll
+D:\dev\ws-csharp\projetos\csharp\Aula57A_Atribuir_Ler\bin\Debug\net8.0\Aula57A_Atribuir_Ler.pdb
+D:\dev\ws-csharp\projetos\csharp\Aula57A_Atribuir_Ler\obj\Debug\net8.0\Aula57A_Atribuir_Ler.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\csharp\Aula57A_Atribuir_Ler\obj\Debug\net8.0\Aula57A_Atribuir_Ler.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\csharp\Aula57A_Atribuir_Ler\obj\Debug\net8.0\Aula57A_Atribuir_Ler.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\csharp\Aula57A_Atribuir_Ler\obj\Debug\net8.0\Aula57A_Atribuir_Ler.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\csharp\Aula57A_Atribuir_Ler\obj\Debug\net8.0\Aula57A_Atribuir_Ler.sourcelink.json
+D:\dev\ws-csharp\projetos\csharp\Aula57A_Atribuir_Ler\obj\Debug\net8.0\Aula57A_Atribuir_Ler.dll
+D:\dev\ws-csharp\projetos\csharp\Aula57A_Atribuir_Ler\obj\Debug\net8.0\refint\Aula57A_Atribuir_Ler.dll
+D:\dev\ws-csharp\projetos\csharp\Aula57A_Atribuir_Ler\obj\Debug\net8.0\Aula57A_Atribuir_Ler.pdb
+D:\dev\ws-csharp\projetos\csharp\Aula57A_Atribuir_Ler\obj\Debug\net8.0\Aula57A_Atribuir_Ler.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\csharp\Aula57A_Atribuir_Ler\obj\Debug\net8.0\ref\Aula57A_Atribuir_Ler.dll

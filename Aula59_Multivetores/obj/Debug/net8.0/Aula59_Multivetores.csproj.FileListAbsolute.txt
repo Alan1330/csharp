@@ -1,0 +1,15 @@
+D:\dev\ws-csharp\projetos\csharp\Aula59_Multivetores\bin\Debug\net8.0\Aula59_Multivetores.exe
+D:\dev\ws-csharp\projetos\csharp\Aula59_Multivetores\bin\Debug\net8.0\Aula59_Multivetores.deps.json
+D:\dev\ws-csharp\projetos\csharp\Aula59_Multivetores\bin\Debug\net8.0\Aula59_Multivetores.runtimeconfig.json
+D:\dev\ws-csharp\projetos\csharp\Aula59_Multivetores\bin\Debug\net8.0\Aula59_Multivetores.dll
+D:\dev\ws-csharp\projetos\csharp\Aula59_Multivetores\bin\Debug\net8.0\Aula59_Multivetores.pdb
+D:\dev\ws-csharp\projetos\csharp\Aula59_Multivetores\obj\Debug\net8.0\Aula59_Multivetores.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\csharp\Aula59_Multivetores\obj\Debug\net8.0\Aula59_Multivetores.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\csharp\Aula59_Multivetores\obj\Debug\net8.0\Aula59_Multivetores.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\csharp\Aula59_Multivetores\obj\Debug\net8.0\Aula59_Multivetores.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\csharp\Aula59_Multivetores\obj\Debug\net8.0\Aula59_Multivetores.sourcelink.json
+D:\dev\ws-csharp\projetos\csharp\Aula59_Multivetores\obj\Debug\net8.0\Aula59_Multivetores.dll
+D:\dev\ws-csharp\projetos\csharp\Aula59_Multivetores\obj\Debug\net8.0\refint\Aula59_Multivetores.dll
+D:\dev\ws-csharp\projetos\csharp\Aula59_Multivetores\obj\Debug\net8.0\Aula59_Multivetores.pdb
+D:\dev\ws-csharp\projetos\csharp\Aula59_Multivetores\obj\Debug\net8.0\Aula59_Multivetores.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\csharp\Aula59_Multivetores\obj\Debug\net8.0\ref\Aula59_Multivetores.dll

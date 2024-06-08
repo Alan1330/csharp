@@ -1,0 +1,15 @@
+D:\dev\ws-csharp\projetos\csharp\Aula54_Vetores\bin\Debug\net8.0\Aula54_Vetores.exe
+D:\dev\ws-csharp\projetos\csharp\Aula54_Vetores\bin\Debug\net8.0\Aula54_Vetores.deps.json
+D:\dev\ws-csharp\projetos\csharp\Aula54_Vetores\bin\Debug\net8.0\Aula54_Vetores.runtimeconfig.json
+D:\dev\ws-csharp\projetos\csharp\Aula54_Vetores\bin\Debug\net8.0\Aula54_Vetores.dll
+D:\dev\ws-csharp\projetos\csharp\Aula54_Vetores\bin\Debug\net8.0\Aula54_Vetores.pdb
+D:\dev\ws-csharp\projetos\csharp\Aula54_Vetores\obj\Debug\net8.0\Aula54_Vetores.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\csharp\Aula54_Vetores\obj\Debug\net8.0\Aula54_Vetores.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\csharp\Aula54_Vetores\obj\Debug\net8.0\Aula54_Vetores.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\csharp\Aula54_Vetores\obj\Debug\net8.0\Aula54_Vetores.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\csharp\Aula54_Vetores\obj\Debug\net8.0\Aula54_Vetores.sourcelink.json
+D:\dev\ws-csharp\projetos\csharp\Aula54_Vetores\obj\Debug\net8.0\Aula54_Vetores.dll
+D:\dev\ws-csharp\projetos\csharp\Aula54_Vetores\obj\Debug\net8.0\refint\Aula54_Vetores.dll
+D:\dev\ws-csharp\projetos\csharp\Aula54_Vetores\obj\Debug\net8.0\Aula54_Vetores.pdb
+D:\dev\ws-csharp\projetos\csharp\Aula54_Vetores\obj\Debug\net8.0\Aula54_Vetores.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\csharp\Aula54_Vetores\obj\Debug\net8.0\ref\Aula54_Vetores.dll

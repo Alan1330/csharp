@@ -1,0 +1,15 @@
+D:\dev\ws-csharp\projetos\csharp\Aula66_Resolvido01\bin\Debug\net8.0\Aula66_Resolvido01.exe
+D:\dev\ws-csharp\projetos\csharp\Aula66_Resolvido01\bin\Debug\net8.0\Aula66_Resolvido01.deps.json
+D:\dev\ws-csharp\projetos\csharp\Aula66_Resolvido01\bin\Debug\net8.0\Aula66_Resolvido01.runtimeconfig.json
+D:\dev\ws-csharp\projetos\csharp\Aula66_Resolvido01\bin\Debug\net8.0\Aula66_Resolvido01.dll
+D:\dev\ws-csharp\projetos\csharp\Aula66_Resolvido01\bin\Debug\net8.0\Aula66_Resolvido01.pdb
+D:\dev\ws-csharp\projetos\csharp\Aula66_Resolvido01\obj\Debug\net8.0\Aula66_Resolvido01.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\csharp\Aula66_Resolvido01\obj\Debug\net8.0\Aula66_Resolvido01.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\csharp\Aula66_Resolvido01\obj\Debug\net8.0\Aula66_Resolvido01.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\csharp\Aula66_Resolvido01\obj\Debug\net8.0\Aula66_Resolvido01.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\csharp\Aula66_Resolvido01\obj\Debug\net8.0\Aula66_Resolvido01.sourcelink.json
+D:\dev\ws-csharp\projetos\csharp\Aula66_Resolvido01\obj\Debug\net8.0\Aula66_Resolvido01.dll
+D:\dev\ws-csharp\projetos\csharp\Aula66_Resolvido01\obj\Debug\net8.0\refint\Aula66_Resolvido01.dll
+D:\dev\ws-csharp\projetos\csharp\Aula66_Resolvido01\obj\Debug\net8.0\Aula66_Resolvido01.pdb
+D:\dev\ws-csharp\projetos\csharp\Aula66_Resolvido01\obj\Debug\net8.0\Aula66_Resolvido01.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\csharp\Aula66_Resolvido01\obj\Debug\net8.0\ref\Aula66_Resolvido01.dll

@@ -1,0 +1,15 @@
+D:\dev\ws-csharp\projetos\csharp\Aula58SomaVetores\obj\Debug\net8.0\Aula58SomaVetores.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\csharp\Aula58SomaVetores\obj\Debug\net8.0\Aula58SomaVetores.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\csharp\Aula58SomaVetores\obj\Debug\net8.0\Aula58SomaVetores.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\csharp\Aula58SomaVetores\obj\Debug\net8.0\Aula58SomaVetores.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\csharp\Aula58SomaVetores\obj\Debug\net8.0\Aula58SomaVetores.sourcelink.json
+D:\dev\ws-csharp\projetos\csharp\Aula58SomaVetores\bin\Debug\net8.0\Aula58SomaVetores.exe
+D:\dev\ws-csharp\projetos\csharp\Aula58SomaVetores\bin\Debug\net8.0\Aula58SomaVetores.deps.json
+D:\dev\ws-csharp\projetos\csharp\Aula58SomaVetores\bin\Debug\net8.0\Aula58SomaVetores.runtimeconfig.json
+D:\dev\ws-csharp\projetos\csharp\Aula58SomaVetores\bin\Debug\net8.0\Aula58SomaVetores.dll
+D:\dev\ws-csharp\projetos\csharp\Aula58SomaVetores\bin\Debug\net8.0\Aula58SomaVetores.pdb
+D:\dev\ws-csharp\projetos\csharp\Aula58SomaVetores\obj\Debug\net8.0\Aula58SomaVetores.dll
+D:\dev\ws-csharp\projetos\csharp\Aula58SomaVetores\obj\Debug\net8.0\refint\Aula58SomaVetores.dll
+D:\dev\ws-csharp\projetos\csharp\Aula58SomaVetores\obj\Debug\net8.0\Aula58SomaVetores.pdb
+D:\dev\ws-csharp\projetos\csharp\Aula58SomaVetores\obj\Debug\net8.0\Aula58SomaVetores.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\csharp\Aula58SomaVetores\obj\Debug\net8.0\ref\Aula58SomaVetores.dll
